@@ -2,10 +2,31 @@ h1{
     color: red;
 }
 *{
-    background-color: rgb(156, 156, 180);
+    background-color: rgb(209, 209, 192);
     background-size: cover;
     background-repeat: no-repeat;
 }
 .chuthuong{
     font-size: 20px;
 } 
+h3,.tieude{
+    color: aqua;
+}
+#doan1,#doan2,#doan3{
+    font-size: 17px;
+    text-transform: capitalize;
+    background-color: rgba(235, 235, 232, 0.863);
+    
+}
+#doan1{
+    color: blueviolet;
+    text-align:left;
+    text-transform: lowercase;
+}
+#doan2{
+    color: goldenrod;
+    
+}
+#doan3{
+    color: rgb(12, 175, 40);
+}
