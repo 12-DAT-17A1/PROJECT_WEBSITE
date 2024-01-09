@@ -2,7 +2,7 @@ h1{
     color: red;
 }
 *{
-    background-image: url("../assets/images/background.jpg");
+    background-color: rgb(156, 156, 180);
     background-size: cover;
     background-repeat: no-repeat;
 }
