@@ -3,12 +3,10 @@ h1{
 }
 *{
     background-color: rgb(209, 209, 192);
-    background-size: cover;
-    background-repeat: no-repeat;
 }
 .chuthuong{
     font-size: 20px;
-} 
+}   
 h3,.tieude{
     color: aqua;
 }
@@ -36,7 +34,7 @@ h3,.tieude{
 .linkchuyen{
     width: 10px;
     height: 7px;
-    background-color: rgb(228, 221, 217);
+    background-color: rgb(148, 141, 137);
     border-radius: 5px;
     padding: 2px ;
     border: 1px solid black;
@@ -45,4 +43,5 @@ h3,.tieude{
 }
 .linkchuyen:active{
     font-size: 15px;
+    background-color: chocolate;
 }
