@@ -30,3 +30,19 @@ h3,.tieude{
 #doan3{
     color: rgb(12, 175, 40);
 }
+.linkchuyen:hover{
+    color: aqua;
+}
+.linkchuyen{
+    width: 10px;
+    height: 7px;
+    background-color: rgb(228, 221, 217);
+    border-radius: 5px;
+    padding: 2px ;
+    border: 1px solid black;
+    
+
+}
+.linkchuyen:active{
+    font-size: 15px;
+}
