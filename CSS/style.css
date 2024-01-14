@@ -30,6 +30,7 @@ h3,.tieude{
 }
 .linkchuyen:hover{
     color: aqua;
+    cursor: pointer;
 }
 .linkchuyen{
     width: 10px;
